@@ -1507,7 +1507,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ie/restaurant-profiles/dish-by-dish-search.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ie/restaurant-profiles/newly-designed-deliveroo-app.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ie/restaurant-profiles/delivering-a-greater-customer-experience.html</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4759,7 +4771,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ie/tag/restaurant-newsletter/page/3.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ie/tag/deliveroo-digest/page/2.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ie/tag/deliveroo-digest/page/3.html</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5336,6 +5360,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ie/niaomh-heylin/page/2.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ie/niaomh-heylin/page/3.html</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
