@@ -115,6 +115,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ie/terms/golden-fortune-cookie.html</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ie/terms/boojumpartybox-competition.html</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4801,6 +4807,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ie/archive/2022.html</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ie/archive/2021.html</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4873,13 +4885,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ie/opinium.html</loc>
+    <loc>https://foodscene.deliveroo.ie/deliveroo.html</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ie/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.ie/opinium.html</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
