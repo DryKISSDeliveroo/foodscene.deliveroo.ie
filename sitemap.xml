@@ -151,6 +151,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ie/terms/free-lunch-paddy.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ie/terms/new-customers-free-delivery-nov.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
